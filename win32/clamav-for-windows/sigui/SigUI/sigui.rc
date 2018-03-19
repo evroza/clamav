@@ -39,4 +39,4 @@ BEGIN
 END
 
 sigui_hu MOFILE "lang/hu/sigui.mo"
-wxstd_hu MOFILE "lang/hu/wxstd.mo"
+//wxstd_hu MOFILE "lang/hu/wxstd.mo"
